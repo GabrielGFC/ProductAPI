@@ -98,6 +98,19 @@ No banco de dados, é salvo apenas o caminho da imagem.
 Acesse:
 📎 [http://localhost:3000/api](http://localhost:3000/api)
 
+🔐 Futuras melhorias
+
+    Implementação de autenticação com JWT
+
+    Cadastro e login de usuários
+
+    Proteção de rotas (ex: apenas usuários autenticados podem criar/editar produtos)
+
+    Upload em nuvem (ex: S3)
+
+    Testes E2E e melhorias nos testes unitários
+
+    Deploy com CI/CD (ex: Railway, Render, Vercel + Supabase)
 
 ## 👤 Autor
 
